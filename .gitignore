@@ -1,0 +1,12 @@
+/**/.DS_Store
+.DS_Store
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+evaluation/T2I-Eval/GenAI_Bench_527_results
+saved
+results
+ckpts
