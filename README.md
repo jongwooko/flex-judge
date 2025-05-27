@@ -1,6 +1,8 @@
-# <img src="assets/flex_1.png" alt="Flex mascot" height="28"/> <img src="assets/flex_2.png" alt="Flex mascot" height="28"/> Flex-Judge: Think Once, Judge Anywhere 
+# <img src="assets/flex_1.png" alt="Flex mascot" height="28"/> <img src="assets/flex_2.png" alt="Flex mascot" height="28"/> Flex-Judge: Think Once, Judge Anywhere
+<a href="https://arxiv.org/abs/2505.18601"><img src="https://img.shields.io/badge/Paper-arXiv:2505.18601-Green"></a>
+<a href=#bibtex><img src="https://img.shields.io/badge/Paper-BibTex-yellow"></a>
 
-[**Flex-Judge: Think Once, Judge Anywhere**](https://arxiv.org/abs/2310.05424)       
+[**Flex-Judge: Think Once, Judge Anywhere**](https://arxiv.org/abs/2505.18601)       
 [Jongwoo Ko](https://sites.google.com/view/jongwooko)<sup>1</sup>\*,
 [Sungnyun Kim](https://sungnyunkim.notion.site/Sungnyun-Kim-4770a0182c47469ebdcd357cde97bd32)<sup>1</sup>\*,
 [Sungwoo Cho](https://peter-sungwoocho.github.io/)<sup>1</sup>,
@@ -123,3 +125,22 @@ Here are the resources for evaluation benchamarks such as MLLM-as-a-Judge, MJ-Be
 - We also provide a molecule-specific evaluator called **Flex-Mol-LLaMA**. To use our Flex-Mol-LLaMA judge model for Best-of-N sampling and DPO training, refer to `example/README.md`.
 
 ![teaser](assets/flex_mol_llama_example.png)
+
+## BibTeX
+If you find this repo useful for your research, please consider citing our paper:
+
+```
+@misc{ko2025flexjudgethinkoncejudge,
+      title={Flex-Judge: Think Once, Judge Anywhere}, 
+      author={Jongwoo Ko and Sungnyun Kim and Sungwoo Cho and Se-Young Yun},
+      year={2025},
+      eprint={2505.18601},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.18601}, 
+}
+```
+
+## Contact
+- Jongwoo Ko: jongwoo.ko@kaist.ac.kr
+- Sungnyun Kim: ksn4397@kaist.ac.kr
