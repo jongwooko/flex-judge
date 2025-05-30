@@ -130,14 +130,11 @@ Here are the resources for evaluation benchamarks such as MLLM-as-a-Judge, MJ-Be
 If you find this repo useful for your research, please consider citing our paper:
 
 ```
-@misc{ko2025flexjudgethinkoncejudge,
-      title={Flex-Judge: Think Once, Judge Anywhere}, 
-      author={Jongwoo Ko and Sungnyun Kim and Sungwoo Cho and Se-Young Yun},
-      year={2025},
-      eprint={2505.18601},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2505.18601}, 
+@article{ko2025flex,
+  title={Flex-Judge: Think Once, Judge Anywhere},
+  author={Ko, Jongwoo and Kim, Sungnyun and Cho, Sungwoo and Yun, Se-Young},
+  journal={arXiv preprint arXiv:2505.18601},
+  year={2025}
 }
 ```
 
