@@ -3,7 +3,7 @@
 ## 🗓️ To-Dos
 - [x] Upload best-of-N evaluation code
 - [x] Upload DPO training code
-- [ ] Release DPO-trained Mol-LLaMA checkpoint
+- [x] Release DPO-trained Mol-LLaMA checkpoint: [link](https://www.dropbox.com/scl/fi/q4mo6zzq806a6valh4bsn/dpo_mol_llama.ckpt?rlkey=ay0zfby4z9zpzndb56mjumi92&dl=0)
 
 ## Install Requirements
 
@@ -80,3 +80,6 @@ python -m pampa.inference \
   --finetuned_ckpt ./checkpoints/stage3/v1.0/{last_epoch}.ckpt \ 
   --prompt_type default
 ```
+
+We have released the DPO-trained Mol-LLaMA checkpoint at [this link](https://www.dropbox.com/scl/fi/q4mo6zzq806a6valh4bsn/dpo_mol_llama.ckpt?rlkey=ay0zfby4z9zpzndb56mjumi92&dl=0).
+You may reproduce our results by evaluating with this model: `--finetuned_ckpt ./dpo_mol_llama.ckpt`.
