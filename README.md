@@ -1,6 +1,8 @@
 # <img src="assets/flex_1.png" alt="Flex mascot" height="28"/> <img src="assets/flex_2.png" alt="Flex mascot" height="28"/> Flex-Judge: Think Once, Judge Anywhere
 <a href="https://arxiv.org/abs/2505.18601"><img src="https://img.shields.io/badge/Paper-arXiv:2505.18601-Green"></a>
 <a href=#bibtex><img src="https://img.shields.io/badge/Paper-BibTex-yellow"></a>
+<a href='https://huggingface.co/jongwooko/Flex-VL-7B'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Flex&ndash;VL&ndash;7B-blue'></a>
+<a href='https://huggingface.co/jongwooko/Flex-Omni-7B'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Flex&ndash;Omni&ndash;7B-blue'></a>
 
 [**Flex-Judge: Think Once, Judge Anywhere**](https://arxiv.org/abs/2505.18601)       
 [Jongwoo Ko](https://sites.google.com/view/jongwooko)<sup>1</sup>\*,
