@@ -12,7 +12,7 @@
 [Se-Young Yun](https://fbsqkd.github.io)<sup>1</sup><br/>
 <sup>1</sup> KAIST AI, \* equal contribution
 
-- We propose **Flex-Judge**, a reasoning-guided multimodal evaluator that leverages minimal textual reasoning data to robustly generalize across multiple modalities and evaluation formats.Add commentMore actions
+- We propose **Flex-Judge**, a reasoning-guided multimodal evaluator that leverages minimal textual reasoning data to robustly generalize across multiple modalities and evaluation formats.
 - Our framework highlights reasoning-based text supervision as a powerful, cost-effective alternative to traditional annotation-intensive approaches, substantially advancing scalable, multimodal model-as-a-judge.
 
 ![teaser](assets/flex_judge_framework.png)
