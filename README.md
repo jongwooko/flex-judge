@@ -1,5 +1,6 @@
 # <img src="assets/flex_1.png" alt="Flex mascot" height="28"/> <img src="assets/flex_2.png" alt="Flex mascot" height="28"/> Flex-Judge Official Repository
-<a href="https://arxiv.org/abs/2505.18601"><img src="https://img.shields.io/badge/Paper-arXiv:2505.18601-Green"></a>
+<a href="https://arxiv.org/abs/2505.18601"><img src="https://img.shields.io/badge/Paper-arXiv:2505.18601-red"></a>
+<a href="https://flex-judge.github.io/"><img src="https://img.shields.io/badge/Project-Page-green"></a>
 <a href=#bibtex><img src="https://img.shields.io/badge/Paper-BibTex-yellow"></a>    
 <a href='https://huggingface.co/jongwooko/Flex-VL-7B'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Flex&ndash;VL&ndash;7B-blue'></a>
 <a href='https://huggingface.co/jongwooko/Flex-Omni-7B'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Flex&ndash;Omni&ndash;7B-blue'></a>
@@ -7,10 +8,10 @@
 
 [**Flex-Judge: Text-Only Reasoning Unleashes Zero-Shot Multimodal Evaluators**](https://arxiv.org/abs/2505.18601) **(NeurIPS 2025)**       
 [Jongwoo Ko](https://sites.google.com/view/jongwooko)<sup>1</sup>\*,
-[Sungnyun Kim](https://sungnyunkim.notion.site/Sungnyun-Kim-4770a0182c47469ebdcd357cde97bd32)<sup>1</sup>\*,
-[Sungwoo Cho](https://peter-sungwoocho.github.io/)<sup>1</sup>,
-[Se-Young Yun](https://fbsqkd.github.io)<sup>1</sup><br/>
-<sup>1</sup> KAIST AI, \* equal contribution
+[Sungnyun Kim](https://sungnyunkim.notion.site/homepage)<sup>2</sup>\*,
+[Sungwoo Cho](https://peter-sungwoocho.github.io/)<sup>2</sup>,
+[Se-Young Yun](https://fbsqkd.github.io)<sup>2</sup><br/>
+<sup>1</sup> Microsoft, <sup>2</sup> KAIST AI, \* equal contribution
 
 - We propose **Flex-Judge**, a reasoning-guided multimodal evaluator that leverages minimal textual reasoning data to robustly generalize across multiple modalities and evaluation formats.
 - Our framework highlights reasoning-based text supervision as a powerful, cost-effective alternative to traditional annotation-intensive approaches, substantially advancing scalable, multimodal model-as-a-judge.
