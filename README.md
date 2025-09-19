@@ -5,7 +5,7 @@
 <a href='https://huggingface.co/jongwooko/Flex-Omni-7B'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Flex&ndash;Omni&ndash;7B-blue'></a>
 <a href='https://huggingface.co/sungnyun/Flex-VL-32B-LoRA'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Flex&ndash;VL&ndash;32B&ndash;LoRA-blue'></a>
 
-[**Flex-Judge: Text-Only Reasoning Unleashes Zero-Shot Multimodal Evaluators**](https://arxiv.org/abs/2505.18601)       
+[**Flex-Judge: Text-Only Reasoning Unleashes Zero-Shot Multimodal Evaluators**](https://arxiv.org/abs/2505.18601) **(NeurIPS 2025)**       
 [Jongwoo Ko](https://sites.google.com/view/jongwooko)<sup>1</sup>\*,
 [Sungnyun Kim](https://sungnyunkim.notion.site/Sungnyun-Kim-4770a0182c47469ebdcd357cde97bd32)<sup>1</sup>\*,
 [Sungwoo Cho](https://peter-sungwoocho.github.io/)<sup>1</sup>,
